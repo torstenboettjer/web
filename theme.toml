@@ -1,0 +1,10 @@
+name = "Dition Cloud"
+description = "Control your Cloud."
+homepage = "https://wwww.ditioncloud.com"
+tags = ["responsive", "one page", "light", "onepage", "company", "clean", "landing page"]
+features = []
+min_version = "0.1"
+
+[author]
+  name = "Torsten Boettjer"
+  homepage = "https://github.com/ditio"
