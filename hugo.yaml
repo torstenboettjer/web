@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Ditio
 
 module:
   # uncomment line below for local development of module
@@ -27,19 +27,19 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image: logos/ditio.svg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
     # height: 28
   font:
-    name: "Open Sans"
+    name: "Arimo"
     sizes: [400,600]
   hero:
     # Main hero title
     title: Manage. Deploy.
     # Hero subtitle (optional)
-    subtitle: Ditio enables operators to become agile, automating the deployment of hybrid cloud services
+    subtitle: Simplify service operation with hybrid cloud solutions. Gain agility without compromising compliance and security.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -117,33 +117,33 @@ params:
     title: Great power comes
     subtitle: with great responsibility
     tiles:
-    - title: App builder
+    - title: Hybrid Cloud
       icon: mouse-globe
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Free trial
-    - title: Cloud integration
-      icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
+      text: Match your applications with the best cloud provider 
       url: /
       buttonText: Get started
-    - title: Add-ons & plugins
+    - title: Declaritve Modules
       icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+      text: Determine your resource configurations automatically    
+      url: /
+      buttonText: Get started
+    - title: Self-Service Portals
+      icon: laptop-cloud
+      text: Reduce your management overhead with collaboration 
       url: /
       buttonText: Get started
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: Simple, Agile, Secure.
+    subtitle: Experience the future of hybrid cloud
     features:
-    - title: Powerful and unified interface
+    - title: Efficient Service Delivery
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       # Icon (from static/images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Cross-device synchronisation
+    - title: Centralize Platform Operation
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: doc-sync
-    - title: Nomad system
+    - title: Effective DevOps Teams
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: mobile-feed
   section3:
