@@ -122,28 +122,28 @@ params:
       text: Match your applications with the best cloud provider 
       url: /
       buttonText: Get started
-    - title: Declaritve Modules
+    - title: Deployment Models
       icon: plug-cloud
       text: Determine your resource configurations automatically    
       url: /
       buttonText: Get started
-    - title: Self-Service Portals
+    - title: Management Portals
       icon: laptop-cloud
-      text: Reduce your management overhead with collaboration 
+      text: Reduce your operational efforts through self-service
       url: /
       buttonText: Get started
   section2:
     title: Simple, Agile, Secure.
     subtitle: Experience the future of hybrid cloud
     features:
-    - title: Efficient Service Delivery
+    - title: Central Platform Operation
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       # Icon (from static/images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Centralize Platform Operation
+    - title: Effective DevOps Teams
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: doc-sync
-    - title: Effective DevOps Teams
+    - title: Efficient Service Delivery
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: mobile-feed
   section3:
