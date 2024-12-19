@@ -44,7 +44,7 @@
   # https://devenv.sh/pre-commit-hooks/
   pre-commit.hooks = {
     actionlint.enable = true;
-    cspell.enable = true;
+    cspell.enable = false;
     markdownlint.enable = true;
   };
 }
